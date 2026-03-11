@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Sumedha 👋
 
-<!--
-**sumedhaagh/sumedhaagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CS AI student interested in Artificial Intelligence, 
+Machine Learning, Computer Vision and Natural Language Processing.
 
-Here are some ideas to get you started:
+I enjoy building projects that apply AI and programming to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+• Preparing for GSSoC 2026  
+• Working on AI and Machine Learning projects  
+
+### Projects
+• Gesture Recognition using CNN  
+• Stock Price Prediction using Machine Learning  
+• Bengali Rule-Based Stemmer (NLP)
+
+### Tech Stack
+Python  
+C  
+C++  
+Java  
+TensorFlow  
+OpenCV  
+Git  
+
+### Areas of Interest
+Artificial Intelligence  
+Machine Learning  
+Computer Vision  
+Data Structures and Algorithms  
+DBMS
