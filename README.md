@@ -6,7 +6,7 @@ Machine Learning, Computer Vision and Natural Language Processing.
 I enjoy building projects that apply AI and programming to solve real-world problems.
 
 ### Currently
-• Preparing for GSSoC 2026  
+• Preparing for GSoC 2026  
 • Working on AI and Machine Learning projects  
 
 ### Projects
