@@ -25,8 +25,8 @@ Real time hand gesture recognition system for drone control using computer visio
 **Bengali Stemmer (NLP)**
 Rule based stemmer for Bengali that extracts root words by removing linguistic suffix patterns, evaluated using standard NLP metrics.
 
-**Stock Price Prediction System**
-Machine learning model for time series prediction applied to financial market data.
+**Netflix Stock Price Prediction System**
+LSTM-based machine learning system for Netflix stock price prediction with a Streamlit dashboard for interactive forecasting.
 
 ---
 
