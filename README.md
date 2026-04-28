@@ -10,17 +10,14 @@ Currently exploring **open source development** and preparing for **summer of co
 
 ## Current Focus
 
-• Real-time gesture recognition for UAV control using deep learning
-• NLP tools for low-resource languages (Bengali)
-• Time-series prediction using machine learning
-• Contributing to open source projects and learning large codebases
+• Actively contributing to open-source projects and understanding large-scale codebases
 
 ---
 
 ## Selected Projects
 
 **Gesture Controlled UAV**
-Real time hand gesture recognition system for drone control using computer vision and deep learning models.
+Developed a real-time hand gesture recognition system for drone control using vision transformers, enabling intuitive human-drone interaction.
 
 **Bengali Stemmer (NLP)**
 Rule based stemmer for Bengali that extracts root words by removing linguistic suffix patterns, evaluated using standard NLP metrics.
