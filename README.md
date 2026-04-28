@@ -1,10 +1,10 @@
-# Hi, I'm Sumedha 👋
+# Hi, I'm Sumedha 
 
-Computer Science (AI) student interested in building intelligent systems that interact with the real world.
+Computer Science (AI) student interested in building practical systems and working with real-world codebases.
 
-My interests lie at the intersection of **Artificial Intelligence, Computer Vision and Natural Language Processing**. I enjoy experimenting with models, understanding how they fail, and improving them until they work in practical scenarios.
+I’m interested in machine learning and computer vision, and I genuinely enjoy working through problems, understanding where things break, and improving them step by step. I like the process of learning by doing and figuring things out along the way.
 
-Currently exploring **open source development** and preparing for **summer of code programs** while continuing to build and improve machine learning systems.
+Recently, I’ve been exploring open-source development, contributing to projects and getting comfortable with large codebases. I’m continuing to build and improve my projects while preparing for summer of code programs.
 
 ---
 
@@ -16,8 +16,8 @@ Currently exploring **open source development** and preparing for **summer of co
 
 ## Selected Projects
 
-**Gesture Controlled UAV**
-Developed a real-time hand gesture recognition system for drone control using vision transformers, enabling intuitive human-drone interaction.
+**Gesture Controlled UAV System**
+Developed a real-time hand gesture recognition system for drone control using vision transformers, with a Blender-simulated UAV environment enabling intuitive human-drone interaction.
 
 **Bengali Stemmer (NLP)**
 Rule based stemmer for Bengali that extracts root words by removing linguistic suffix patterns, evaluated using standard NLP metrics.
@@ -29,7 +29,7 @@ LSTM-based machine learning system for Netflix stock price prediction with a Str
 
 ## Tech Stack
 
-Python • NumPy • TensorFlow • OpenCV • C/C++ • Java • JavaScript • Git
+Python • NumPy • JavaScript • TensorFlow • OpenCV • C/C++ • Java • Git
 
 ---
 
