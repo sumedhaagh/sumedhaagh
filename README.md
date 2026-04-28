@@ -29,22 +29,13 @@ LSTM-based machine learning system for Netflix stock price prediction with a Str
 
 ## Tech Stack
 
-Python
-C / C++
-Java
-TensorFlow
-OpenCV
-Git
+Python • NumPy • TensorFlow • OpenCV • C/C++ • Java • JavaScript • Git
 
 ---
 
 ## Interests
 
-Artificial Intelligence
-Machine Learning
-Computer Vision
-Natural Language Processing
-Open Source Systems
+Artificial Intelligence • Machine Learning • Computer Vision • NLP • Open Source • Web Development
 
 ---
 
